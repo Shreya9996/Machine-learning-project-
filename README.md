@@ -85,3 +85,13 @@ Contributions are welcome!
 Feel free to fork and submit pull requests.
 
 
+
+📬 Contact & Support
+
+For queries, feature requests, or issues, reach out at:
+
+📧 Email: shreyapatil9681@gmail.com
+
+🔥 Star this repo if you find it useful! 🚀
+
+
