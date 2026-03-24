@@ -33,17 +33,29 @@ Includes multiple ML models and preprocessing techniques.
 
 📂 Dataset Files
 breast-cancer.csv
+
 churn_dataset.csv
+
 healthcare_data_science_dataset.csv
+
 healthcare_ml_dataset.csv
+
 house_price_prediction_550_rows.csv
+
 
 🛠️ Technologies Used
 Python 🐍
+
 NumPy
+
 Pandas
-Matplotlib / Seaborn
+
+Matplotlib 
+
+Seaborn
+
 Scikit-learn
+
 
 ⚙️ Features
 Data preprocessing and cleaning
